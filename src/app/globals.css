@@ -1,8 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@layer base{
+ @layer base{
   body{
     color: red;
     background-color: white;
@@ -12,13 +11,4 @@
   .menuLink {
     @apply cursor-pointer hover:text-[#c5c5c5];
   }
-  .tag{
-    background-color:deeppink;
-    margin-right: 0.5rem;
-    margin-top: 0.5rem;
-    padding: 3px 10px;
-    display: inline-block;
-    color: black;
-    font-size: 12px;
-  }
-}
+} 

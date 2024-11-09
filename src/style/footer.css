@@ -1,0 +1,9 @@
+.footer-container {
+    margin-top: 4rem; /* Tailwind's mt-16 */
+    padding-top: 4rem; /* Tailwind's py-16 */
+    padding-bottom: 4rem;
+    text-align: center;
+    color: #ec4899; /* Tailwind's pink-600 */
+    background-color: #f1f5f9; /* Tailwind's slate-100 */
+  }
+  
